@@ -16,6 +16,12 @@ Complete e-commerce order fulfillment automation for Shopify and WooCommerce sto
 
 ---
 
+## 📊 Workflow Diagram
+
+![E-commerce Fulfillment Workflow](assets/workflow.png)
+
+---
+
 ## ✨ Key Features
 
 - ✅ **Order Notifications** - Instant alerts for new orders
